@@ -1,0 +1,24 @@
+{
+  "short_name": "Labswap",
+  "name": "Labswap",
+  "description": "A decentralized exchange and automated market maker (AMM) system on the BNB Chain.
+Our ecosystem is designed to offerering stake, yield farming, NFTs, coding, and marketing solutions.",
+  "homepage_url": "https://labswapecosystem.com",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1476A8",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
